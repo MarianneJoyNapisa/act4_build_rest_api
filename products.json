@@ -1,0 +1,16 @@
+{
+    "41051238-e9d0-4307-9e4c-5235b60c5ca4":{
+    "id":"41051238-e9d0-4307-9e4c-5235b60c5ca4",
+    "name":"C2 RED",
+    "price":15,
+    "quantity":1,
+    "image":"cd_red.jpg"
+    },
+    "c7de650f-08e8-4eeb-9bfb-d877169991a0":{
+        "id":"c7de650f-08e8-4eeb-9bfb-d877169991a0",
+        "name":"C2 GREEN",
+        "price":15,
+        "quantity":100,
+        "image":"c2_green.jpg"
+    }
+}
